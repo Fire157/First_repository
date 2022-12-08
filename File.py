@@ -1,1 +1,3 @@
-First file
+#First file
+
+print('my first commit')
